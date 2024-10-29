@@ -1,4 +1,5 @@
 import sqlite3
+#commment added
 
 def calculate(operator, num1, num2):
     """Performs a calculation based on the given operator and number.
