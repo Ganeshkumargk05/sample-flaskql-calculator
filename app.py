@@ -2,6 +2,8 @@ import sqlite3
 from flask import Flask, jsonify, request, render_template
 from calculator import calculate
 
+#flask application
+
 app = Flask(__name__)
 
 def get_db_connection():
