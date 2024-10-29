@@ -1,7 +1,7 @@
 import sqlite3
 
 def calculate(operator, num1, num2):
-    """Performs a calculation based on the given operator and numbers.
+    """Performs a calculation based on the given operator and number.
 
     Args:
         operator (str): The operator to use (e.g., "+", "-", "*", "/").
